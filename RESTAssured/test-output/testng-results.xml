@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3940" started-at="2019-06-13T06:02:35Z" finished-at="2019-06-13T06:02:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3940" started-at="2019-06-13T06:02:35Z" finished-at="2019-06-13T06:02:39Z">
+      <class name="TwitterAPI.CreateTweet">
+        <test-method status="PASS" signature="createtweet()[pri:0, instance:TwitterAPI.CreateTweet@42e26948]" name="createtweet" duration-ms="3916" started-at="2019-06-13T06:02:35Z" finished-at="2019-06-13T06:02:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createtweet -->
+      </class> <!-- TwitterAPI.CreateTweet -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
